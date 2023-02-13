@@ -1,6 +1,9 @@
 {
-  "module": true,
+  "module": false,
   "documentation": {
-    "enable": true
+    "enable": true,
+    "manualPages": {
+      "collab.md": "kineo modules"
+    }
   }
 }
