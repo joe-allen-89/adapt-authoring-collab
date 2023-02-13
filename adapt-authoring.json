@@ -3,7 +3,7 @@
   "documentation": {
     "enable": true,
     "manualPages": {
-      "collab.md": "kineo modules"
+      "collab.md": "kineo-modules"
     }
   }
 }
