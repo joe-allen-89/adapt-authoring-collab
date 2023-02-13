@@ -1,5 +1,5 @@
 {
-  "module": false,
+  "module": true,
   "documentation": {
     "enable": true,
     "manualPages": {
